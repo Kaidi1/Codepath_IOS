@@ -28,13 +28,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![Kapture 2022-08-21 at 18 59 16](https://user-images.githubusercontent.com/62517289/185814814-b2abedb1-c92c-4856-9538-287543ade7c3.gif)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![prework_ios](https://user-images.githubusercontent.com/62517289/185814893-70ebfa5b-e30b-4805-9095-06ba50fc4d55.gif)'
+ title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- connecting each outlet to the labels
+- making sure to follow each step
 
 ## License
 
