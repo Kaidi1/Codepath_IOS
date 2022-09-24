@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C8A51F4-91AD-4960-A8B2-E9B2DE8814E0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86A13E36-6D36-4D40-9148-DCA78CAFE5E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "week 1/movieGridCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "movieGridCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "86A13E36-6D36-4D40-9148-DCA78CAFE5E8 - cbb52fb3fa2bc29c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week_1.movieGridCell.posterView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "week 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaidi/Desktop/Codepath_IOS/week%201/movieGridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "86A13E36-6D36-4D40-9148-DCA78CAFE5E8 - dceb80ff3f99a2e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week_1.movieGridCell.posterView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "week 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaidi/Desktop/Codepath_IOS/week%201/movieGridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "86A13E36-6D36-4D40-9148-DCA78CAFE5E8 - 6df224f93fb57d2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week_1.movieGridCell.posterView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "week 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaidi/Desktop/Codepath_IOS/week%201/movieGridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "86A13E36-6D36-4D40-9148-DCA78CAFE5E8 - dc88d55206812228"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week_1.movieGridCell.posterView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "week 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaidi/Desktop/Codepath_IOS/week%201/movieGridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "86A13E36-6D36-4D40-9148-DCA78CAFE5E8 - ca3ffd2264dcb7e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week_1.movieGridCell.init(frame: __C.CGRect) -&gt; week_1.movieGridCell"
+                  moduleName = "week 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaidi/Desktop/Codepath_IOS/week%201/movieGridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "86A13E36-6D36-4D40-9148-DCA78CAFE5E8 - 9e604fc1417ca759"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week_1.movieGridCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;week_1.movieGridCell&gt;"
+                  moduleName = "week 1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaidi/Desktop/Codepath_IOS/week%201/movieGridCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

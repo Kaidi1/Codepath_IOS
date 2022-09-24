@@ -17,6 +17,9 @@
 		2B43A0A228D7C3F900B03A7D /* week_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B43A0A128D7C3F900B03A7D /* week_1UITests.swift */; };
 		2B43A0A428D7C3F900B03A7D /* week_1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B43A0A328D7C3F900B03A7D /* week_1UITestsLaunchTests.swift */; };
 		2B43A0B328D7CD6900B03A7D /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B43A0B228D7CD6900B03A7D /* MoviesViewController.swift */; };
+		2B47CA2328DDDD7A00827AEC /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B47CA2228DDDD7A00827AEC /* MovieDetailsViewController.swift */; };
+		2B81DC2728DE17B200770EA5 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B81DC2628DE17B200770EA5 /* MovieGridViewController.swift */; };
+		2B81DC2928DE6EB400770EA5 /* movieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B81DC2828DE6EB400770EA5 /* movieGridCell.swift */; };
 		2BBDA85028D7E3550035ADD0 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BBDA84F28D7E3550035ADD0 /* MovieCell.swift */; };
 		2BBDA85328D7ED4C0035ADD0 /* AlamofireImage in Frameworks */ = {isa = PBXBuildFile; productRef = 2BBDA85228D7ED4C0035ADD0 /* AlamofireImage */; };
 		323B167501521F0315CAAB09 /* Pods_week_1Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2594A3D226AF9FFC28CA186 /* Pods_week_1Tests.framework */; };
@@ -57,6 +60,9 @@
 		2B43A0A128D7C3F900B03A7D /* week_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = week_1UITests.swift; sourceTree = "<group>"; };
 		2B43A0A328D7C3F900B03A7D /* week_1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = week_1UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		2B43A0B228D7CD6900B03A7D /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
+		2B47CA2228DDDD7A00827AEC /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
+		2B81DC2628DE17B200770EA5 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
+		2B81DC2828DE6EB400770EA5 /* movieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = movieGridCell.swift; sourceTree = "<group>"; };
 		2BBDA84F28D7E3550035ADD0 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 		534808523C78ADADA718CB80 /* Pods_week_1_week_1UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_week_1_week_1UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		69AE979535D7EDBA0E338F94 /* Pods_week_1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_week_1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -141,6 +147,9 @@
 				2B43A08E28D7C3F900B03A7D /* Info.plist */,
 				2B43A0B228D7CD6900B03A7D /* MoviesViewController.swift */,
 				2BBDA84F28D7E3550035ADD0 /* MovieCell.swift */,
+				2B47CA2228DDDD7A00827AEC /* MovieDetailsViewController.swift */,
+				2B81DC2628DE17B200770EA5 /* MovieGridViewController.swift */,
+				2B81DC2828DE6EB400770EA5 /* movieGridCell.swift */,
 			);
 			path = "week 1";
 			sourceTree = "<group>";
@@ -172,7 +181,6 @@
 				84417BD22AAD73030AF3ABA0 /* Pods-week 1Tests.debug.xcconfig */,
 				BD24D78C6E4AC8D212F86E8C /* Pods-week 1Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -423,6 +431,9 @@
 			files = (
 				2B43A08528D7C3F700B03A7D /* ViewController.swift in Sources */,
 				2B43A08128D7C3F700B03A7D /* AppDelegate.swift in Sources */,
+				2B47CA2328DDDD7A00827AEC /* MovieDetailsViewController.swift in Sources */,
+				2B81DC2728DE17B200770EA5 /* MovieGridViewController.swift in Sources */,
+				2B81DC2928DE6EB400770EA5 /* movieGridCell.swift in Sources */,
 				2B43A08328D7C3F700B03A7D /* SceneDelegate.swift in Sources */,
 				2BBDA85028D7E3550035ADD0 /* MovieCell.swift in Sources */,
 				2B43A0B328D7CD6900B03A7D /* MoviesViewController.swift in Sources */,
@@ -622,7 +633,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -651,7 +662,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
