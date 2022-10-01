@@ -23,17 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/62517289/193379361-7636ee17-dc90-4409-988b-73ca8d4657a8.gif' title='icon' width='250' alt='icon' />
+<img src='https://user-images.githubusercontent.com/62517289/193380104-9f9bce87-1d3a-4b1b-ab26-f3704c00c912.gif' title='video walkthrough' width='250' alt='video walkthrough' />
 
-<img src='https://user-images.githubusercontent.com/62517289/193379617-31734a2c-50a1-4c12-a4a0-aa2227539243.gif' title='login' width='250' alt='login' />
-
-<img src='https://user-images.githubusercontent.com/62517289/193379706-ff5f43da-b35c-405b-beb4-16c292e90cab.gif' title='logout' width='250' alt='logout' />
-
-<img src='https://user-images.githubusercontent.com/62517289/193379884-f0928e60-eca7-4918-a679-376b06c7ed0a.gif' title='logged across restart' width='250' alt='logged across restart' />
-
-<img src='' title='view tweet' width='50' alt='view tweets' />
-
-<img src='' title='refrensh and pull infinitely' width='50' alt='refresh and pull infinitely' />
 
 
 
