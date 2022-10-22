@@ -15,6 +15,7 @@
 		2B5E89AB28F992480013D776 /* Instagram_cloneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B5E89AA28F992480013D776 /* Instagram_cloneTests.swift */; };
 		2B5E89B528F992480013D776 /* Instagram_cloneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B5E89B428F992480013D776 /* Instagram_cloneUITests.swift */; };
 		2B5E89B728F992480013D776 /* Instagram_cloneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B5E89B628F992480013D776 /* Instagram_cloneUITestsLaunchTests.swift */; };
+		2B838845290374AF00E170B0 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B838844290374AF00E170B0 /* CommentCell.swift */; };
 		2BC2B5DB28FA103D0014CC5A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC2B5DA28FA103D0014CC5A /* LoginViewController.swift */; };
 		2BC2B5DD28FA10540014CC5A /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC2B5DC28FA10540014CC5A /* FeedViewController.swift */; };
 		2BC2B5DF28FA18730014CC5A /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC2B5DE28FA18730014CC5A /* CameraViewController.swift */; };
@@ -57,6 +58,7 @@
 		2B5E89B028F992480013D776 /* Instagram cloneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Instagram cloneUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B5E89B428F992480013D776 /* Instagram_cloneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instagram_cloneUITests.swift; sourceTree = "<group>"; };
 		2B5E89B628F992480013D776 /* Instagram_cloneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instagram_cloneUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2B838844290374AF00E170B0 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		2BC2B5DA28FA103D0014CC5A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		2BC2B5DC28FA10540014CC5A /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		2BC2B5DE28FA18730014CC5A /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				2BC2B5DC28FA10540014CC5A /* FeedViewController.swift */,
 				2BC2B5DE28FA18730014CC5A /* CameraViewController.swift */,
 				2BC2B5E028FA25C70014CC5A /* PostViewCell.swift */,
+				2B838844290374AF00E170B0 /* CommentCell.swift */,
 			);
 			path = "Instagram clone";
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				2B5E899428F992450013D776 /* AppDelegate.swift in Sources */,
 				2B5E899628F992450013D776 /* SceneDelegate.swift in Sources */,
 				2BC2B5DF28FA18730014CC5A /* CameraViewController.swift in Sources */,
+				2B838845290374AF00E170B0 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
